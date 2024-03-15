@@ -1,6 +1,6 @@
 # MVCApp
 
-## Segundo proyecto desarrollado en el curso de Desarrollo Web en .NET Core, com ointroduccion a Razor
+## Segundo proyecto desarrollado en el curso de Desarrollo Web en .NET Core, como introduccion a Razor
 
 ### Desarrollado por Edgar Benavides
 
